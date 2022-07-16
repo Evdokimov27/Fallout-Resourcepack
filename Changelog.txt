@@ -1,0 +1,687 @@
+New in V1.20:
+Back again, after a 7 month hiatus!
+- Added a new Bartender npc skin to piglin, name: "Barkeep Theo"
+- Created animation configs for new Bartender
+- Added missing texture for base pig (liberator model and texture)
+- Removed broken grass overlay(no color tint, so it's always gray)
+- Fixed uv mapping for hair.jpm so headwear(armor skin layer) doesnt use the base face texture(covering the face animations on piglin npc models)
+- Fixed uv mapping on bottom of left hand for npc models (piglin)
+- Fixed z-fighting issue on left leg for npc model
+- Removed detailed pupil from the happy eye texture, since it looks off(uncanny valley)
+
+
+
+New in V1.15:
+-Matt's Additions:
+- torch models
+- hopper models (sink)
+- fixes for rubbles piles on carpets
+- added custom plant models to farious flowers and corals
+- new dark oak/acacia button and lever models
+- Fusion Cell model on orange dye
+- A swarm of bees model on glowstone dust
+
+Added custom models intended for use with server, obtainable with CustomItemData NBT tags;
+- office chairs
+- benches
+- scrap wires
+- chemistry workbench
+- many food items
+- many chems/meds
+- laser rifle
+- fixed missing models
+
+
+
+New in V1.10:
+-Added new "MineSweeper" mine launcher weapon model(on andesite with custom id 1)
+
+-Matt's Additions:
+-> Added Fragmine as a projectile for the "MineSweeper"
+-> Large Metal Plates texture variations (Red, Green, Brown, Magenta Terracotta)
+-> Drawers texture variations (Light gray, Brown Wool)
+-> Metal Frame blocks (Red, Green Glass)
+-> Added working and brooken desktop terminal model
+-> Added broken wall terminal model (Dead Fire Coral Fan)
+-> Added 2 nuka fridge models
+-> Added a shitload of posters and a couple of grafittis
+
+
+
+New in V1.05:
+-Added a new bushy leaf block model
+-Added 3 varieties of leaf model to birch(random)
+-New randomized birch leaf texture, 12 different variations with different weights based on biomes
+  the leaf model uses much "thinner" bush textures in deserts
+
+-Moved bush model from spruce leaves to dandelion
+
+
+-- V1.0 --
+
+Major Update ► Merging of all smaller development packs!!:
+Packs:
+  Fallout Paradise main	(Main pack featuring most texture sprites)
+  Fallout Paradise Expansion (Previously the biggest file size "merger" pack)
+  Walldeco (all posters)
+  Items (Most custom modeled items, guns etc)
+  Sounds (custom sound files)
+
+Why?
+  Until now we've tried to keep all but a single pack below 8mb so we could easily share it over discord.
+  And we needed multiple packs since multiple people are working on content at the same time
+
+Whats New:
+  Now we're merging everything into the main pack and uploading it to mediafire, this will mean you only 
+  need to download a single pack from now on (instead of both paradise + expansion + others).
+
+  The version number reverts back to 1.0 for this release, and new updates will be coming at 0.05 increments
+  (compared to 0.01 previously)
+
+Additions:
+  -Added animated eyes to zombie(testing purposes for npc's on the server)
+  -Moved the animation template over to piglin (which will be the mob used for npc's on the server)
+  -4 facial expressions added for Piglins named "Raider1" - 4
+  -More animation test files (different eyes / mouth animations)
+  
+
+--::| Pre- Merge Versions of the pack below |::--
+
+
+
+New in V1.13:
+-Added 3d model to birch door
+
+
+
+New in V1.12:
+-Removed old splashtext on main menu
+
+
+
+New in v1.11:
+-Updated pipboy model with tons of extra detail(new model went from 43 to 111 cubes)
+	-Most details added to radio, geiger counter and the connector between them
+
+
+
+New in V1.10:
+-Added custom side textures to polished andesite/granite/diorite(slab+stairs) to make 
+	the "bolt" pattern look better. (6 blockstate files, 6 textures, 18 block models)
+
+
+
+New in V1.09:
+-Updated the rail "support" plank model on warped button to avoid z fighting with new rail layout
+-Removed unused and outdated entity textures(mainly to fix broken horses, mule and donkey textures)
+-Folder moving/renaming:
+	-Moved shack door models and updated texture paths
+	-Moved 11 leaf model fiels and updated texture paths
+	-Moved oak trapdoor models into custom folder and updated texture paths
+
+
+
+New in V1.08:
+-Updated the barbed wire model on cobweb so it now looks better used in both "directions"
+-Added new 3d model to the "wall" warped fence gate, that has a "reinforced" road barrier look, that fit's with the
+	road barrier models on endstone and red nether brick walls. the opened fence gate has a model of a "broken down" barrier
+
+
+
+New in V1.07:
+-Added a ctm to polished andesite(gray bolted plates) with randomized tiles
+-Started experimenting with optifines "POM"(Parallax Occlusion Mapping) 
+	Test files added for bricks & soulsand
+
+
+
+New in V1.06:
+-Added a new 3d model to the road barrier assets(marked end piece) on open crimson and warped fence gate
+-Also added a doublesided road barrier for use in the center of larger roadways (added on blackstone wall)
+-Updated some of the road barrier models to fix alignment issues, and made some changes to the item models
+-Updated all of the rail models to be bigger and sorted out tons of z fighting issues(4 new models)
+-Added a "double wheeled" train wheel dolly model to powered & activator rail "on"
+
+
+
+New in V1.05:
+-Moved gui scaling for powered rail and activator back onto the block model file
+-Added new railing 3d models to some of the rails(powered rail, activator rail, rail, curved++)
+-Added a railway crossbeam model to the warped button and warped trapdoor
+
+
+
+New in V1.04:
+-Added more details to the survival inventory gui
+-Added some more animations to the survival gui
+-Made item textures for road mark blocks more vibrant to make it easier to tell them apart
+-updated single line road mark overlay that was moved to gray_concrete_powder
+-re-added custom model for endbrick wall, and texture for end_bricks
+-Added animated background to the small potion effect background
+-Moved GUI folder to a separate pack to make room for more content in the main pack
+
+
+
+New in V1.03:
+-Added 3d model for oak trapdoor and tweaked texture
+-Deleted tons of old randomized custom models and extra folders used for random textures(moving these textures to optifine instead)
+-Added a new singleplayer inventory gui
+-updated and added new animated features to the inventory
+-Added textures for the recipe book menu and toggle button
+-Moved a couple more folders and model files and updated all broken file paths
+
+
+
+
+New in V1.02:
+-Updated to version 1.16.2
+-Removed the old diagonal road marking system from concrete powder(red, green, blue, brown)
+-Cleaned up folder structure and deleted several old folders and content that was not in use
+-Moved asphalt ctm and overlays from black concrete to gray_concrete_powder, now all road ctm stuff is placed on concrete powders(least likely to be needed for other stuff)
+-Added correct textures to item models of asphalt blocks(gray/black/magenta/lime concrete powder, cut/regular sandstone slab)
+
+
+
+New in V1.01:
+-Added red screen denied "security panel" model to jungle button
+-Added blink animation to red "denied" screen
+-Added emissive layer to the green and red security buttons
+-Added 3d model to birch and jungle button items
+
+
+
+New in V1.0:
+-deleted old model files for cut_sandstone_slab and sandstone_slab & removed floating overlay issue
+-Added a "security panel" model to the birch button
+-tweaked the lightmap to fix the pitch black issues in the darkest areas
+-Added new menu panorama
+-Added new title logo
+-Added new menu buttons
+-Changed menu background
+
+-Version 1.0!
+
+
+
+New in V0.99:
+--Updated to 1.16.1--
+-Updated blockstate files of red_nether_brick_wall and end_stone_brick_wall to fix missing model
+-Updated regular and trapped single and double chest to the new texture format
+-Added ctm to polished andesite(grey metal plating)
+-Finished the single line road mark texture overlay on gray_concrete_powder and added asphalt underlay to it
+-Tweaked the saturation and contrast of the double line road mark, to match all other markings and added one new texture for the single block(8).
+-Added "animated" model to jukebox changes based on if there's a disc inside
+-Tweaking the road marking system, will probably add it in the next update
+
+-Transparency missing on paintings and item frames, bug with minecraft 1.16.1
+
+
+New in V0.98:
+-Added 6 randomized textures to each of the 2 new factory glass textures
+-Added glass pane to regular glass ctm
+
+
+
+New in V0.97:
+-Added an overlay for blocks next to sand(clay, coarse dirt, gravel +++)
+-Added pink concrete ctm(repeat, 2x5)
+-Continued work on the road textures and started to finalize some of the asphalt textures for parts of the ctm
+-Added in overlay colored quartz pillars(Build with alternating quartz block, and pink/light_blue concrete)
+(disabled light_blue and pink repeat ctm for colored quartz pillars to render properly)
+
+
+
+New in V0.96:
+-Moved diner sofa model to purpur stairs(due to plugin limits on server)
+-Fixed the broken model textures on the new tube radio model(Glass layer didnt render elements behind it)
+-Updated the pipboy model and reworked most of the texture
+-Added 2 new glass types(old factory window tests)
+-Fixed one missing tile on the brick texture
+
+
+
+New in V0.95:
+-Added a Tube Radio 3d model to a noteblock renamed as "Tube Radio"
+-Reworked the pipboy models textures, to free up some more space on the texturefile, and to fix some texture scaling issues on certain parts of the model.
+-Lowered the pipboy resolution and started playing around with some alternative designs
+-Added a diner sofa model to red nether brick stairs(3 models:standard, inner, outer)
+
+
+
+New in V0.94:
+-Added sandstone stairs to asphalt ctm
+-Made the diagonal line ctm on black_concrete_dust one pixel wider inwards, to make them more like the thickness of the straight line texture
+-Started playing around with compact_ctm tile replacement to make slabs look like the diagonal double line blocks
+(the halfslabs has to use ctm, becuase they dont support the overlays used on the full blocks)
+-Finished up the road ctm texture and make it work for the tiles that will get used on the project.
+-Faded and weathered the angled road mark texture added to the diorite slab
+
+Mattu's additions:
+-screw 3d model on iron ingot named 'screw'
+-chair armrest model on andesite block named 'Sar1'
+
+
+New in V0.93:
+-Added regular ctm texture for asphalt and started setting up all the road marking overlays to fit this change
+-Fixed missing texture on bottles on brewing stand
+-Added renderpass and cullface settings to glass to make it look better
+-Made the glass bottles placed on the brewing stand see-through
+
+
+New in V0.92:
+-Updated pipboy 3d model, and added some test textures
+-Testing some simple vault door 3d model on oak sign
+-Working on implementing a map system on the pipboy for the server(added one new pipboy screen element pn shield with 2 durability taken)
+-Testing multiple overlay features on the colored concrete road marking textures
+
+
+New in V0.91:
+-Added road marking ctm to smooth sandstone slab
+-Added a custom inv model to the 4 cocnrete powders used for road markings(red, blue, green, brown)
+
+Mattu's additions:
+carpet update:
+-colors:(green, red, black, brown, orange, lime, pink, blue, magenta)
+
+
+
+New in V0.90:
+-Added a connected texture to the regular glass
+-Changed the design of the creative inventory gui a bit
+-Added randomized broken glass textures to the ctm
+
+Mattu's additions:
+-alternate textures:
+smooth stone
+
+-new textures:
+1x1 grafitti (head)
+2x2 grafitti (ghoul)
+light grey glass (wire mesh)
+smooth stone double slab (weathered reinforced concrete)
+
+-sounds: (might split into a seperate sound addon pack later)
+added "location discovered" sound
+
+
+
+New in V0.89:
+-Added a test of 2 of the 4 creative inventory gui textures
+-Added custom 3d model of rails(regular angles and hill) + powered rail(regular + hill)
+
+
+
+
+New in V0.88:
+-Updated the crash barrier models for the cobblestone walls, to make them join together better in corners
+-Also added a 3d model to the standalone wall piece
+
+Also removed the spaces from folder names(as well as # in the last update) to fix an issue with the game crashing for mac users.
+Removing the spaces from the folder names broke the textures of the items in the inventory, had to restructure 
+how custom block textures for items was setup, by going back to the vanilla solution(which also fixes some compatibility issues
+for current dynmap usage.
+
+Updated all folder names for optifine folders to try and fix some issues mac users have experienced
+
+:small fixes:
+-removed broken road overlay from sandstone slabs
+-added in 3d model of crash barrier to cobblestone and mossy cobblestone fence items
+
+
+
+New in V0.87:
+Due to issues for mac users(game crash on launch), the '#' was removed from folder names, and i updated all model files with this new path.
+-Added a shallower slope road ctm used in a 2X3 square along with black_concrete blocks
+ Added this 2x3 ctm in 4 rotations, to concrete powders(red, green, blue, brown)
+-Added a 3d model "crash barrier" to cobblestone and mossy cobblestone walls
+
+
+New in V0.86:
+-Added barbed wire 3d model to cobweb
+
+Mattu's additions:
+-Added alternate texture to:
+
+cobblestone
+acacia planks
+birch planks
+oak planks
+dark oak planks
+jungle planks
+spruce planks
+brown wool (double shelve)
+light grey wool (triple shelve)
+magenta wool (green tiles)
+white terracota (cracked dry ground)
+yellow terracota (b/y stripes)
+lime terracota (green metal sheets)
+orange terracotta (rusted metal sheets)
+polished andesite (gray metal plate)
+polished diorite (white metal plate)
+polished granite (orange metal plate)
+
+
+-New textures:
+
+1x1 grafitti (CFC logo)
+2x2 grafitti (Open4biz)
+2x2 grafitti (we dont bite)
+1x2 grafitti (safe)
+4x4 grafitti (metro)
+2x4 grafitti (lineup)
+polished granite double slab (orange metal panel)
+polished andesite double slab (gray metal panel)
+polished diorite double slab (white metal panel)
+
+-Fixes:
+
+updated file name for smooth quartz and quartz pillar
+
+
+
+New in V0.85:
+ -Updated 5 planks(all except dark_oak)
+ -Created a new optifine overlay that works between all of these 5 plank types
+
+
+
+
+New in V0.84
+ -Continued work on the road CTM textures
+ -Updated the texture for the moving features on the iron door to make them more visible
+
+
+
+New in V0.83:
+ -Added 3d model to iron door based on the old jungle door texture(top, bottom, top_open, bottom_open, and a flipped version of all of these for right hinged doors)
+ -Added drainage grate 3d model to acacia trapdoor(closed, open and top_closed)
+ -Added 3d model oak door
+ -Moved door item texture from jungle to iron door
+ -Added door item texture to spruce and dark oak variants
+
+
+
+New in V0.82:
+!!Note!! the pipboy popup on screen is blocking the players view, so obviously not good for use in pvp, might need to add a vanilla friendly variant where it does not fill the middle of the screen.
+ -Added new pipboy 3d model to the shield, and custom setup that shows it's screen when right-clicking(blocking with the shield)!!Note!!
+ -Anvil item model was fixed(was bookshelf model by accident)
+
+Mattu's additions: 
+ - moved barrel texture to barrel, and added the open barrel texture
+ - hay block is now a carboard box
+ - found textures for file cabinets, moved them to wool
+ - added dark oak and spurce doors
+ - purple concrete is now a reinforced concrete slav
+ - rose bush is dead tree
+ - new stripped log wood
+ - added new grafitti to paintings
+ -Moved the Sheet metals(overgrown, slightly green and pale versions) to different kinds of terracotta
+ -Updated name for turned off redstone lamp texture(was missing ingame)
+ 
+
+
+New in V0.81:
+ -Added a nuka cola 3d model to the bottle
+ -Added a nuka quantum 3d model to the experience bottle
+ -Removed the old emerald texture because it was moved to polished andesite
+
+
+
+New additions in V0.80:
+ -Pipboy models, placed on dead coral, using 4 corals one for each rotation. Each model is randomized based on block location
+ -Added ctm concrete for more concrete colors(red, yellow, lime, blue, light_blue, cyan, orange)
+ -Added the new concrete texture to item form(necessary step when it's ctm only)
+ -Added more paintings
+ -Added pipboy bobblehead texture
+ -Added 3 pipboy models
+ -Added armor layer to bobblehead statues
+ -Added birch door and oak door
+ -Tweaked lantern
+ -Added textures for door items(oak, acacia, jungle, birch)
+ 
+
+
+
+
+New additions in V0.79:
+ -Added a 3d model bobblehead to dead tube coral(needs texture)
+ -Added a 3d bookshelf
+ -Updated name of grass block side, top and overlay to new format.
+ -Updated names of: fire, pumpkin face on/off, ++
+ -Moved over diamond block and some other textures to wool,
+ -Added new gravel and clay moved old gravel texture to white terracotta
+ -Readded a couple of missing item textures
+ -Removed painting background
+ -Tons of small changes and tweaks
+
+
+
+
+New additions in V0.78:
+Note:(Updating Names after name change from old mc versions)
+ -Started work on moving all textures over to more fitting blocks for vanilla
+ -Updated name for brick texture
+ -Updated name of all door types
+ -Updated name for sandstone and red_sandstone
+ -removed wheel model from end portal frame because mojang changed its opacity(caused x-ray)
+ -Added the wheel model to fencegate,(rightclick for size change instead of ender eye)
+ -Re-added faction emblems to 4 tiny paintings
+ -Updated name on regular piston top
+ -moved texture from coal_ore, iron_ore, coal_block, birch_planks, acacia_planks to terracottas
+ -Updated crosshair
+ -Moved ctm mossy bricks to brick block
+ -Moved old concrete ctm to white_concrete and added texture to item in hand
+ -Moved metal plate textures over to new blocks, and added a lighter gray/white metal plate
+ -Re-added the rusty oil drum texture to netherrack
+ -created new acacia, birch and jungle plank textures
+ -Moved old netherbrick texture to black terracotta
+ -Updated netherbrick texture to be much brighter
+
+
+ 
+New additions in V0.77:
+ -Added a 3D modeled wheel on the end portal frame
+ -Added a 3D modeled wheel with additional details to the end portal frame with an ender eye placed
+ -Reverted torch model to default
+ -Added a 3D model for all leaf blocks
+ -Updated for minecraft 1.14.4
+ -Updated approximately 50 block and item texture names and texture folder name paths that were changed since mc 1.11
+ -Fixed broken stuff since 1.11
+ 
+ 
+
+Newest additions in V0.76!
+ -Updated to 1.11.2!
+ -Removed all unchanged models and blockstate files
+ -Changed all mcpatcher files to work with optifine, as mcpatcher doesn't seem to work
+ -Working on some custom skies, and added a test of flying birds
+ -Fixed annoying underwater texture
+ -New realistic hand drawn lightmap, created from scratch
+ properly in latest versions of minecraft.
+ Researching new ways to further improve the experience with custom optifine features.
+ 
+ 
+ 
+
+Newest additions in V0.75! 
+ -Minor fixes to the Jungledoor (Vent holes, and some contrast tweaks)
+ -Added new wooden door texture to spruce door
+ -Added new brick texture to slabs and stairs as well
+ -Testing concrete texture on bedrock and light blue wool
+ 
+ 
+ 
+ 
+Newest additions in V0.74!
+ -Added a sprite varied texture to brick with 128 block varieties.
+ -fixed brick slab, from glitched glass texture
+ -Added variety to wire fence on purple glass
+ -Added wire fence door to acacia door
+ 
+ 
+
+Newest additions in V0.73!
+ -Better tiling for magenta wool, green metal plate texture
+ -added clock texture to green wool
+ -ventilation duct to purple wool with custom ctm!
+ 
+ 
+ 
+ 
+Newest additions in V0.71!
+ -Added office cabinets to orange and red wool
+ -Animated fire
+ -new lava_still (experimental)
+ -fixed laying birch log
+ 
+ 
+ 
+
+Newest additions in V0.67!
+ -Added pale sheet metal to emerald_ore placed in a desert
+ -Iron_ore to metal
+ -Coal_ore to metal
+ -Added non mcpatcher gold block
+ 
+ 
+ 
+ 
+Newest additions in V0.63!
+-New string and trip wire textures
+-Metal door on Jungle_door
+-Added touch of green to metal sheet (emeral_ore) when placed in biomes:Jungle, river, ocean
+-Removed the lowres black textures from many ores and wools, and sponge. replaced with vanilla textures
+-Woody Vines
+
+
+ 
+Newest additions in V0.58!
+ -Dark prismarine (to fit better with the other underwater temple blocks)
+ -Magenta stained glass to "Glass half slab"
+ -Started work on rain, snow and sun textures
+ -Added barbed wire to red stained glass pane  (Texture by MattuJr)
+ 
+Removed Lime green "old engine model"
+
+~Started work on adding flags to the rp, currently added Norwegian and American flag to pink and magenta stained glass panes
+
+
+
+
+Update V0.55 : 8/13/15
+
+Sorry for not updating everyday, been kinda busy. Heres a new custom 3d model that youd hopefully like!
+
+Main Changes:
+-Added new Textured Generator model to Blue_stained_glass
+-Fixed Anvil items not displaying the texture correctly
+-Some 3d models for testing might have been added removed (cant keep track of everything) 
+
+
+
+
+
+Update V0.52 : 8/10/15
+
+Main Changes:
+-New and improved "mud" texture on soulsand.
+-Fixed grass side being darker than top
+-Added podzol
+
+Work on new 3D model started, currently assigned to blue stained clay (generator) 
+
+
+
+
+
+Update V0.50 : 8/08/15
+
+Main Changes:
+-Anvils as items are currently still "broken" but textures are now added when placed, looks awesome btw ;)
+-Added 3 types of "pipes" Magenta, pink and yellow stained glass are temporarily used
+
+-Added prismarine_rough
+-Added prismarine_bricks
+-Added sea_lantern(animated texture: glowing)
+
+Other stuff:  *INFO*
+Some blocks might be "unfinished" or not displaying correctly, as the pack is still a work in progress, many things will change and some items early on now might not be completely done. 
+
+
+
+
+
+Update V0.45 : 8/07/15
+
+Main Changes:
+-Added Diorite texture
+-Added coarse dirt
+-Added clay block(Ctm texture with 9 varieties)
+-Changed sand
+-Added Gravel
+
+Other stuff:
+Anvils are temporarily "nontextured" and have a custom model, will keep on working on this then ext few days! 
+
+
+
+
+
+Update V0.40 : 8/06/15
+
+Main Changes:
+-Moved Steel beam ctm to gold block, and made it work properly!
+-Added redstone lamp on/off
+-Added "White structure block" to dark oak planks
+-Added 2 more grass styles and added them to a randomized ctm(which essentially means better looking grass)
+-Added new pack picture
+-Added new "Mojang" startup picture 
+
+
+
+
+
+Update V0.26 : 8/05/15
+
+Main Changes:
+-Completely new ice texture
+-Added packed_ice texture
+-Added sea_lantern texture
+-Moved both brick and netherbrick textures back due to demand
+-Moved steel beam texture to Acacia Log
+
+Other stuff:
+Changed pack name from "Fallout Hawaii" to "Fallout Paradise"
+Continuing on the steel beam ctm a lot of thinkering left, but have made some progress since V0.25 
+
+
+
+
+
+Update V0.25 : 8/04/15
+
+Main changes:
+-Added Sheet metal block, randomized with 9 different textures!
+-Moved nether brick texture to red_sandstone
+-Moved brick texture to jungle planks
+
+
+Other stuff:
+Started work on a steel beam ctm texture, (3 hours of work so far) 
+
+
+
+
+
+Update V0.17 : 8/03/15
+
+Main changes:
+-Changed emerald block "Metal" texture, and put it on jungle planks
+-made a blueish metal plate texture for acacia planks
+-Moved brick texture to red_sandstone_normal, red_sandstone_top and red_sandstone_bottom
+-Moved sandbag texture to brick
+-Fixed glasspane top issue
+-made the nether_brick a slight touch darker (might have to change the texture in a later update)
+
+Other stuff:
+-Added all new texturefiles for 1.8.x 

@@ -1,0 +1,10 @@
+Resource pack credits:
+ullert
+MattuJr
+_Dal
+
+Optifine animations made with my online tool:
+https://falloutparadise.com/pages/tools/animations.html
+
+3D Model software:
+https://blockbench.net/
