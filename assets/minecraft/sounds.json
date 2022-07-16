@@ -1,5 +1,17 @@
 {
-    "bulletbig": {
+    "fatman_fire": {
+        "replace": false,
+        "sounds": [
+            "fatman_fire"
+        ]
+    },
+	    "akshot": {
+        "replace": false,
+        "sounds": [
+            "akshot"
+        ]
+    },
+	"bulletbig": {
         "replace": false,
         "sounds": [
             "bulletbig"
