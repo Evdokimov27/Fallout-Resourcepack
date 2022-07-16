@@ -1,0 +1,14 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/leather"
+    },
+	"overrides": [
+		{"predicate": {"custom_model_data":1}, "model": "item/junk/cattlehide"},
+		{"predicate": {"custom_model_data":2}, "model": "item/junk/dolphinskin"},
+		{"predicate": {"custom_model_data":3}, "model": "item/junk/rathide"},
+		{"predicate": {"custom_model_data":4}, "model": "item/junk/lelescale"},
+		{"predicate": {"custom_model_data":5}, "model": "item/junk/scuttleshell"}
+		
+	]
+}

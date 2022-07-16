@@ -1,0 +1,6 @@
+{
+	"parent": "block/intricate_survival/flame",
+	"textures": {
+		"fire": "block/torch_flame"
+	}
+}

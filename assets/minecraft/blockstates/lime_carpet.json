@@ -1,0 +1,13 @@
+{
+    "variants": {
+        "":[
+		    { "model": "block/concpile1","weight":10 },
+			{ "model": "block/concpile2","weight":10 },
+			{ "model": "block/concpile3","weight":10 },
+			{ "model": "block/concpile4","weight":10 },
+			{ "model": "block/concpile5","weight":10 },
+			{ "model": "block/concpile6","weight":10 },
+			{ "model": "block/concpile7","weight":10 }
+		]
+	}
+}

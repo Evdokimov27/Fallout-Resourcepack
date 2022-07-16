@@ -1,0 +1,9 @@
+{
+    "parent": "item/melee/combatknife",
+	"overrides": [
+		{"predicate": {"custom_model_data":1}, "model": "item/melee/steelknife"},
+		{"predicate": {"custom_model_data":2}, "model": "item/melee/tireiron"},
+		{"predicate": {"custom_model_data":3}, "model": "item/melee/axe"}
+		
+	]
+}

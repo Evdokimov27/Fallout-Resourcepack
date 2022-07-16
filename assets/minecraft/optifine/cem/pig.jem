@@ -1,0 +1,50 @@
+{
+  "comment": "Created by Mattu",
+  "models": 
+  [
+
+    {
+      "model": "optifine/cem/pig/pig_body.jpm",
+      "part": "body", 
+      "attach": false,
+      "translate": [0, 0, 0],
+      "rotate": [0, 0, 0]
+    },
+    {
+      "model": "optifine/cem/pig/pig_head.jpm",
+      "part": "head", 
+      "attach": false,
+      "translate": [0, 0, 0],
+      "rotate": [0, 0, 0]
+    },
+    {
+      "model": "optifine/cem/pig/pig_leg1.jpm",
+      "part": "leg1", 
+      "attach": false,
+      "translate": [0, 0, 0],
+      "rotate": [0, 0, 0]
+    },
+    {
+      "model": "optifine/cem/pig/pig_leg2.jpm",
+      "part": "leg2", 
+      "attach": false,
+      "translate": [0, 0, 0],
+      "rotate": [0, 0, 0]
+    },
+    {
+      "model": "optifine/cem/pig/pig_leg3.jpm",
+      "part": "leg3", 
+      "attach": false,
+      "translate": [0, 0, 0],
+      "rotate": [0, 0, 0]
+    },
+    {
+      "model": "optifine/cem/pig/pig_leg4.jpm",
+      "part": "leg4", 
+      "attach": false,
+      "translate": [0, 0, 0],
+      "rotate": [0, 0, 0]
+    }
+   
+  ]
+}

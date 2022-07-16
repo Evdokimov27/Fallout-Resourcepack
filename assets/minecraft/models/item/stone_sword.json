@@ -1,0 +1,12 @@
+{
+    "parent": "item/melee/steelknife",
+	"overrides": [
+		{"predicate": {"custom_model_data":1}, "model": "item/melee/combatknife"},
+		{"predicate": {"custom_model_data":2}, "model": "item/melee/steelknife"},
+		{"predicate": {"custom_model_data":3}, "model": "item/melee/switchblade"},
+		{"predicate": {"custom_model_data":4}, "model": "item/melee/fireaxe"},
+		{"predicate": {"custom_model_data":5}, "model": "item/melee/sledge"},
+		{"predicate": {"custom_model_data":6}, "model": "item/melee/knuckle"}
+		
+	]
+}

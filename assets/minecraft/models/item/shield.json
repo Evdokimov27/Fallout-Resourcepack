@@ -1,0 +1,12 @@
+{
+    "parent": "item/custom/pipboy/pipboy",
+	
+    "overrides": [
+        {
+            "predicate": {
+                "blocking": 1
+            },
+            "model": "item/shield_hud"
+        }
+    ]
+}

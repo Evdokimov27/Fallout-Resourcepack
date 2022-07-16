@@ -1,0 +1,10 @@
+{
+    "parent": "minecraft:block/pumpkin",
+    "textures": {
+        "layer0": "block/pumpkin"
+    },
+	"overrides": [
+		{"predicate": {"custom_model_data":1}, "model": "item/helmets/VaultSecurity"},
+		{"predicate": {"custom_model_data":2}, "model": "item/test/test"}
+	]
+}

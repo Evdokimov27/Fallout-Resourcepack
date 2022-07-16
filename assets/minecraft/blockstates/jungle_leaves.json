@@ -1,0 +1,9 @@
+{
+  "variants": {
+        "":[
+		    { "model": "block/custom/nature/leaves/jgl1","weight":10 },
+			{ "model": "block/custom/nature/leaves/jgl2","weight":10 },
+			{ "model": "block/custom/nature/leaves/jgl4","weight":10 }
+		]
+  }
+}

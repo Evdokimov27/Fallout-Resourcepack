@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "":[
+		    { "model": "block/steelcagemid1","weight":10 },
+			{ "model": "block/steelcagemid2","weight":10 },
+			{ "model": "block/steelcagemid3","weight":10 }
+		]
+	}
+}

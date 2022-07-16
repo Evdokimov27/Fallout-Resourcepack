@@ -1,0 +1,21 @@
+{
+	"folder/texture": "textures/entity/zombie/zombie.png",
+	"textureSize": [16, 16],
+	"credit": "Made by ullert with Blockbench",
+	"submodels": [
+		{
+			"id": "face",
+			"rotate": [0, 0, -180],
+			"boxes": [
+				{
+					"coordinates": [-4, 0, -4.01, 8, 8, 0],
+					"uvNorth": [2, 2, 0, 0],
+					"uvEast": [0, 0, 1, 8],
+					"uvWest": [0, 0, 1, 8],
+					"uvUp": [0, 0, 8, 1],
+					"uvDown": [0, 0, 8, 1]
+				}
+			]
+		}
+	]
+}

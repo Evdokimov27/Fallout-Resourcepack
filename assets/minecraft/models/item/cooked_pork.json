@@ -1,0 +1,11 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/cooked_pork"
+    },
+	"overrides": [
+		{"predicate": {"custom_model_data":1}, "model": "item/food/fruitsalvo"}
+
+		
+	]
+}

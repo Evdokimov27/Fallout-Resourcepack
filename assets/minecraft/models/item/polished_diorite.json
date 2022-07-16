@@ -1,0 +1,15 @@
+{
+    "parent": "minecraft:block/diorite",
+    "textures": {
+        "layer0": "block/diorite"
+    },
+	"overrides": [
+		{"predicate": {"custom_model_data":1}, "model": "item/guns/aer9"},
+		{"predicate": {"custom_model_data":2}, "model": "item/guns/aer9REL"},
+		{"predicate": {"custom_model_data":3}, "model": "item/guns/aer9Sight"},
+		{"predicate": {"custom_model_data":4}, "model": "item/guns/aer9S"},
+		{"predicate": {"custom_model_data":5}, "model": "item/guns/aer9SREL"},
+		{"predicate": {"custom_model_data":6}, "model": "item/guns/aer9SSight"}
+
+	]
+}

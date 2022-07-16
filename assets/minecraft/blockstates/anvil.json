@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=south": { "model": "block/custom/engine" },
+        "facing=west": { "model": "block/custom/engine", "y": 90 },
+        "facing=north": { "model": "block/custom/engine", "y": 180 },
+        "facing=east": { "model": "block/custom/engine", "y": 270 }
+    }
+}

@@ -1,0 +1,8 @@
+{   
+  "parent": "block/slab",
+  "textures": {
+	"bottom": "block/custom_model_textures/_items/asphalt",
+    "top": "block/custom_model_textures/_items/asphalt",
+    "side": "block/custom_model_textures/_items/asphalt"
+  }
+}

@@ -1,0 +1,22 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/bowl"
+    },
+	"overrides": [
+		{"predicate": {"custom_model_data":1}, "model": "item/junk/fork"},
+		{"predicate": {"custom_model_data":2}, "model": "item/junk/spoon"},
+		{"predicate": {"custom_model_data":3}, "model": "item/junk/plasticcup"},
+		{"predicate": {"custom_model_data":4}, "model": "item/junk/ceramicplate"},
+		{"predicate": {"custom_model_data":5}, "model": "item/junk/ceramicbowl"},
+		{"predicate": {"custom_model_data":6}, "model": "item/junk/plasticplate"},
+		{"predicate": {"custom_model_data":7}, "model": "item/junk/plasticbowl"},
+		{"predicate": {"custom_model_data":8}, "model": "item/junk/ceramiccup"},
+		{"predicate": {"custom_model_data":9}, "model": "item/junk/glasscup"},
+		{"predicate": {"custom_model_data":10}, "model": "item/junk/basketwhite"},
+		{"predicate": {"custom_model_data":11}, "model": "item/junk/basketpink"},
+		{"predicate": {"custom_model_data":12}, "model": "item/junk/basketgreen"},
+		{"predicate": {"custom_model_data":13}, "model": "item/junk/basketblue"}
+		
+	]
+}

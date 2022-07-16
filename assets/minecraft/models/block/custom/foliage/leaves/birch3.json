@@ -1,0 +1,59 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "block/block",
+	"textures": {
+		"all": "block/birch_leaves",
+		"particle": "#all"
+	},
+	"elements": [
+		{
+			"name": "1",
+			"from": [0.425, 0.525, 0.725],
+			"to": [15.175, 15.275, 15.475],
+			"rotation": {"angle": -22.5, "axis": "x", "origin": [7.8, 7.9, 8.1]},
+			"faces": {
+				"north": {"uv": [16, 0, 0, 16], "texture": "#all", "cullface": "north", "tintindex": 0},
+				"east": {"uv": [16, 0, 0, 16], "texture": "#all", "cullface": "west", "tintindex": 0},
+				"south": {"uv": [16, 0, 0, 16], "texture": "#all", "cullface": "south", "tintindex": 0},
+				"west": {"uv": [16, 0, 0, 16], "texture": "#all", "cullface": "east", "tintindex": 0},
+				"up": {"uv": [0, 16, 16, 0], "rotation": 90, "texture": "#all", "cullface": "up", "tintindex": 0},
+				"down": {"uv": [0, 16, 16, 0], "rotation": 270, "texture": "#all", "cullface": "down", "tintindex": 0}
+			}
+		},
+		{
+			"name": "2",
+			"from": [0.425, 0.525, 0.725],
+			"to": [15.175, 15.275, 15.475],
+			"rotation": {"angle": -22.5, "axis": "y", "origin": [7.8, 7.9, 8.1]},
+			"faces": {
+				"north": {"uv": [16, 0, 0, 16], "texture": "#all", "cullface": "north", "tintindex": 0},
+				"east": {"uv": [16, 0, 0, 16], "texture": "#all", "cullface": "west", "tintindex": 0},
+				"south": {"uv": [16, 0, 0, 16], "texture": "#all", "cullface": "south", "tintindex": 0},
+				"west": {"uv": [16, 0, 0, 16], "texture": "#all", "cullface": "east", "tintindex": 0},
+				"up": {"uv": [0, 16, 16, 0], "rotation": 90, "texture": "#all", "cullface": "up", "tintindex": 0},
+				"down": {"uv": [0, 16, 16, 0], "rotation": 270, "texture": "#all", "cullface": "down", "tintindex": 0}
+			}
+		},
+		{
+			"name": "3",
+			"from": [0.425, 0.525, 0.725],
+			"to": [15.175, 15.275, 15.475],
+			"rotation": {"angle": 22.5, "axis": "z", "origin": [7.8, 7.9, 8.1]},
+			"faces": {
+				"north": {"uv": [16, 0, 0, 16], "texture": "#all", "cullface": "north", "tintindex": 0},
+				"east": {"uv": [16, 0, 0, 16], "texture": "#all", "cullface": "west", "tintindex": 0},
+				"south": {"uv": [16, 0, 0, 16], "texture": "#all", "cullface": "south", "tintindex": 0},
+				"west": {"uv": [16, 0, 0, 16], "texture": "#all", "cullface": "east", "tintindex": 0},
+				"up": {"uv": [0, 16, 16, 0], "rotation": 90, "texture": "#all", "cullface": "up", "tintindex": 0},
+				"down": {"uv": [0, 16, 16, 0], "rotation": 270, "texture": "#all", "cullface": "down", "tintindex": 0}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "Leaf block",
+			"origin": [8, 8, 8],
+			"children": [0, 1, 2]
+		}
+	]
+}

@@ -1,0 +1,7 @@
+{   
+  "parent": "block/cube_top",
+  "textures": {
+    "top": "block/custom_model_textures/_items/asphalt_marking",
+    "side": "block/custom_model_textures/_items/asphalt"
+  }
+}

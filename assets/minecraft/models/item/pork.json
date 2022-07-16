@@ -1,0 +1,17 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/pork"
+    },
+	"overrides": [
+		{"predicate": {"custom_model_data":1}, "model": "item/food/stimpak"},
+		{"predicate": {"custom_model_data":2}, "model": "item/food/superstimpak"},
+		{"predicate": {"custom_model_data":3}, "model": "item/food/bloodpack"},
+		{"predicate": {"custom_model_data":4}, "model": "item/food/psycho"},
+		{"predicate": {"custom_model_data":5}, "model": "item/food/medx"},
+		{"predicate": {"custom_model_data":6}, "model": "item/food/slasher"},
+		{"predicate": {"custom_model_data":7}, "model": "item/food/buffout"}
+
+		
+	]
+}

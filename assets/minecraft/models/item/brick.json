@@ -1,0 +1,38 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/brick"
+    },
+	"overrides": [
+		{"predicate": {"custom_model_data":1}, "model": "item/component/screw"},
+		{"predicate": {"custom_model_data":2}, "model": "item/component/spring"},
+		{"predicate": {"custom_model_data":3}, "model": "item/component/steelscrap"},
+		{"predicate": {"custom_model_data":4}, "model": "item/component/goldscrap"},
+		{"predicate": {"custom_model_data":5}, "model": "item/component/alumscrap"},
+		{"predicate": {"custom_model_data":6}, "model": "item/component/leadscrap"},
+		{"predicate": {"custom_model_data":7}, "model": "item/component/oldwood"},
+		{"predicate": {"custom_model_data":8}, "model": "item/component/newwood"},
+		{"predicate": {"custom_model_data":9}, "model": "item/component/adhesive"},
+		{"predicate": {"custom_model_data":10}, "model": "item/component/plastic"},
+		{"predicate": {"custom_model_data":11}, "model": "item/component/rubber"},
+		{"predicate": {"custom_model_data":12}, "model": "item/component/ceramic"},
+		{"predicate": {"custom_model_data":13}, "model": "item/component/asbestos"},
+		{"predicate": {"custom_model_data":14}, "model": "item/component/acid"},
+		{"predicate": {"custom_model_data":15}, "model": "item/component/gunpowdah"},
+		{"predicate": {"custom_model_data":16}, "model": "item/component/circuitry"},
+		{"predicate": {"custom_model_data":17}, "model": "item/component/cloth"},
+		{"predicate": {"custom_model_data":18}, "model": "item/component/concretescrap"},
+		{"predicate": {"custom_model_data":19}, "model": "item/component/bonepieces"},
+		{"predicate": {"custom_model_data":20}, "model": "item/component/leatherscrap"},
+		{"predicate": {"custom_model_data":21}, "model": "item/component/crystalscrap"},
+		{"predicate": {"custom_model_data":22}, "model": "item/component/glassy"},
+		{"predicate": {"custom_model_data":23}, "model": "item/component/titaniumscrap"},
+		{"predicate": {"custom_model_data":24}, "model": "item/component/antiseptic"},
+		{"predicate": {"custom_model_data":25}, "model": "item/component/balfiber"},
+		{"predicate": {"custom_model_data":26}, "model": "item/component/copperscrap"},
+		{"predicate": {"custom_model_data":28}, "model": "item/component/gear"},
+		{"predicate": {"custom_model_data":29}, "model": "item/component/oil"}
+		
+		
+	]
+}

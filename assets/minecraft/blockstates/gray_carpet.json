@@ -1,0 +1,13 @@
+{
+    "variants": {
+        "":[
+		    { "model": "block/brickpile1","weight":10 },
+			{ "model": "block/brickpile2","weight":10 },
+			{ "model": "block/brickpile3","weight":10 },
+			{ "model": "block/brickpile4","weight":10 },
+			{ "model": "block/brickpile5","weight":10 },
+			{ "model": "block/brickpile6","weight":10 },
+			{ "model": "block/brickpile7","weight":10 }
+		]
+	}
+}

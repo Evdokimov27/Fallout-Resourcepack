@@ -1,0 +1,17 @@
+||- Blocks: -||
+Iron_block - Steel Beam
+
+Terracottas:
+light_blue - regular
+blue - pale
+pink - overgrown
+purple - green(slightly green)
+
+acacia_fencegate - 3 wheel models
+white_concrete - Old concrete ctm
+netherrack - rusty oil drum
+
+
+||- Items: -||
+glass_bottle - nuka cola bottle
+experience_bottle - nuka quantum bottle

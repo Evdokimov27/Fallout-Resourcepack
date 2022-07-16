@@ -1,0 +1,9 @@
+{
+  "variants": {
+    "": [
+		{ "model": "block/custom/foliage/leaves/birch1", "weight": 1 },
+		{ "model": "block/custom/foliage/leaves/birch2", "weight": 1 },
+		{ "model": "block/custom/foliage/leaves/birch3", "weight": 1 }
+	]
+  }
+}

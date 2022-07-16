@@ -1,0 +1,16 @@
+{
+    "parent": "item/melee/bonegauntlet",
+	"overrides": [
+		{"predicate": {"custom_model_data":1}, "model": "item/melee/board"},
+		{"predicate": {"custom_model_data":2}, "model": "item/melee/poolcue"},
+		{"predicate": {"custom_model_data":3}, "model": "item/melee/bonegauntlet"},
+		{"predicate": {"custom_model_data":4}, "model": "item/melee/steelknife"},
+		{"predicate": {"custom_model_data":5}, "model": "item/melee/combatknife"},
+		{"predicate": {"custom_model_data":6}, "model": "item/melee/knuckle"},
+		{"predicate": {"custom_model_data":7}, "model": "item/melee/axe"},
+		{"predicate": {"custom_model_data":8}, "model": "item/melee/fireaxe"},
+		{"predicate": {"custom_model_data":9}, "model": "item/melee/sledge"},
+		{"predicate": {"custom_model_data":10}, "model": "item/melee/power_fist"}
+		
+	]
+}

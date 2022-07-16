@@ -1,0 +1,44 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "item/custom/shipping_container/door",
+		"particle": "item/custom/shipping_container/door"
+	},
+	"elements": [
+		{
+			"from": [4, 0, -0.05],
+			"to": [16, 32, 1.05],
+			"faces": {
+				"north": {"uv": [0, 0, 6, 16], "texture": "#0"},
+				"east": {"uv": [0, 0, 0.5, 16], "texture": "#0"},
+				"south": {"uv": [6, 0, 0, 16], "texture": "#0"},
+				"west": {"uv": [0, 0, 0.5, 16], "texture": "#0"},
+				"up": {"uv": [0, 0, 6, 0.5], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [0, 0, 6, 0.5], "rotation": 180, "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"firstperson_righthand": {
+			"scale": [0.44, 0.44, 0.44]
+		},
+		"firstperson_lefthand": {
+			"scale": [0.56, 0.56, 0.56]
+		},
+		"ground": {
+			"rotation": [30, -19, 6],
+			"translation": [0, -1.5, 0],
+			"scale": [0.47, 0.47, 0.47]
+		},
+		"gui": {
+			"rotation": [-21, -33.75, -4.5],
+			"translation": [-2.25, -1.5, 0],
+			"scale": [0.42383, 0.42383, 0.42383]
+		},
+		"fixed": {
+			"rotation": [90, 0, 0],
+			"translation": [15.8, -30, -30],
+			"scale": [4, 4, 4]
+		}
+	}
+}

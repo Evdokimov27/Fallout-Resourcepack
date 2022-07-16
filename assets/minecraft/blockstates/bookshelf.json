@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "": [
+		{"model": "block/custom/bookshelf/bookshelf4way", "weight": 2},
+		{"model": "block/custom/bookshelf/bookshelf4way", "weight": 2, "y": 90},
+		{"model": "block/custom/bookshelf/bookshelf4way", "weight": 2, "y": 180},
+		{"model": "block/custom/bookshelf/bookshelf4way", "weight": 2, "y": 270}
+		]
+    }
+}

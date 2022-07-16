@@ -1,0 +1,9 @@
+{
+  "variants": {
+        "":[
+		    { "model": "block/custom/nature/leaves/acacia_leaves","weight":10 },
+			{ "model": "block/custom/nature/leaves/bush2","weight":10 },
+			{ "model": "block/custom/nature/leaves/bush3","weight":10 }
+		]
+  }
+}

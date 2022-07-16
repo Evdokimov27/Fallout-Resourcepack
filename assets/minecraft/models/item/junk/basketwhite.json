@@ -1,0 +1,17 @@
+{
+    "parent": "minecraft:block/bedrock",
+    "textures": {
+        "layer0": "block/bedrock"
+    },
+	"overrides": [
+		{"predicate": {"custom_model_data":1}, "model": "item/cone"},
+		{"predicate": {"custom_model_data":2}, "model": "item/woodblock1"},
+		{"predicate": {"custom_model_data":3}, "model": "item/woodblock2"},
+		{"predicate": {"custom_model_data":4}, "model": "item/woodblock3"},
+		{"predicate": {"custom_model_data":5}, "model": "item/vaultdoor"},
+		{"predicate": {"custom_model_data":6}, "model": "item/slidingvaultdoor"},
+		{"predicate": {"custom_model_data":7}, "model": "item/slidingvaultshutter"},
+		{"predicate": {"custom_model_data":8}, "model": "item/slidingvaultdoorshort"}
+
+	]
+}

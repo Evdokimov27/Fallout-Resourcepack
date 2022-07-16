@@ -1,0 +1,31 @@
+{
+    "parent": "minecraft:block/dirt",
+    "textures": {
+        "layer0": "block/dirt"
+    },
+	"overrides": [
+		{"predicate": {"custom_model_data":1}, "model": "item/furniture/steeltable1"},
+		{"predicate": {"custom_model_data":2}, "model": "item/furniture/steeltable2"},
+		{"predicate": {"custom_model_data":3}, "model": "item/furniture/steeltable3"},
+		{"predicate": {"custom_model_data":4}, "model": "item/furniture/steeltable4"},
+		{"predicate": {"custom_model_data":5}, "model": "item/furniture/steeltable5"},
+		{"predicate": {"custom_model_data":6}, "model": "item/furniture/metaltablewhite"},
+		{"predicate": {"custom_model_data":7}, "model": "item/furniture/metaltableblue"},
+		{"predicate": {"custom_model_data":8}, "model": "item/furniture/metaltablewhitelong"},
+		{"predicate": {"custom_model_data":9}, "model": "item/furniture/steeltablelow1"},
+		{"predicate": {"custom_model_data":10}, "model": "item/furniture/gunworkbench"},
+		{"predicate": {"custom_model_data":11}, "model": "item/furniture/ammobench"},
+		{"predicate": {"custom_model_data":12}, "model": "item/furniture/fridgeclose1"},
+		{"predicate": {"custom_model_data":13}, "model": "item/furniture/fridgeclose2"},
+		{"predicate": {"custom_model_data":14}, "model": "item/furniture/fridgeclose3"},
+		{"predicate": {"custom_model_data":15}, "model": "item/furniture/fridgeclose4"},
+		{"predicate": {"custom_model_data":16}, "model": "item/furniture/fridgeopen1"},
+		{"predicate": {"custom_model_data":17}, "model": "item/furniture/fridgeopen2"},
+		{"predicate": {"custom_model_data":18}, "model": "item/furniture/fridgeopen3"},
+		{"predicate": {"custom_model_data":19}, "model": "item/furniture/fridgeopen4"},
+		{"predicate": {"custom_model_data":20}, "model": "item/furniture/nukavendor1"},
+		{"predicate": {"custom_model_data":21}, "model": "item/furniture/nukavendor2"},
+		{"predicate": {"custom_model_data":22}, "model": "item/furniture/chemtable"}
+		
+	]
+}

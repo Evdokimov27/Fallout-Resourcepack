@@ -1,0 +1,13 @@
+{
+  "comment": "Created by ullert",
+  "models": 
+  [
+    {
+      "model": "face_anim.jpm",
+      "part": "head", 
+      "attach": true,
+      "translate": [0, 0, 0],
+      "rotate": [0, 0, 0]
+    }
+  ]
+}

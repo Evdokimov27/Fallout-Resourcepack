@@ -1,0 +1,86 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "block/crafting_table_top",
+		"1": "block/end_stone_bricks",
+		"particle": "block/crafting_table_top"
+	},
+	"elements": [
+		{
+			"from": [0.5, 0, 0.5],
+			"to": [1.5, 16, 1.5],
+			"faces": {
+				"north": {"uv": [5, 3, 6, 15], "texture": "#0"},
+				"east": {"uv": [0, 0, 1, 12], "texture": "#0"},
+				"south": {"uv": [0, 0, 1, 12], "texture": "#0"},
+				"west": {"uv": [0, 0, 1, 12], "texture": "#0"},
+				"up": {"uv": [0, 0, 1, 1], "texture": "#0"},
+				"down": {"uv": [0, 0, 1, 1], "texture": "#0"}
+			}
+		},
+		{
+			"from": [14.5, 0, 0.5],
+			"to": [15.5, 16, 1.5],
+			"faces": {
+				"north": {"uv": [5, 3, 6, 15], "texture": "#0"},
+				"east": {"uv": [0, 0, 1, 12], "texture": "#0"},
+				"south": {"uv": [0, 0, 1, 12], "texture": "#0"},
+				"west": {"uv": [0, 0, 1, 12], "texture": "#0"},
+				"up": {"uv": [0, 0, 1, 1], "texture": "#0"},
+				"down": {"uv": [0, 0, 1, 1], "texture": "#0"}
+			}
+		},
+		{
+			"from": [0.5, 0, 14.5],
+			"to": [1.5, 16, 15.5],
+			"faces": {
+				"north": {"uv": [5, 3, 6, 15], "texture": "#0"},
+				"east": {"uv": [0, 0, 1, 12], "texture": "#0"},
+				"south": {"uv": [0, 0, 1, 12], "texture": "#0"},
+				"west": {"uv": [0, 0, 1, 12], "texture": "#0"},
+				"up": {"uv": [0, 0, 1, 1], "texture": "#0"},
+				"down": {"uv": [0, 0, 1, 1], "texture": "#0"}
+			}
+		},
+		{
+			"from": [14.5, 0, 14.5],
+			"to": [15.5, 16, 15.5],
+			"faces": {
+				"north": {"uv": [5, 3, 6, 15], "texture": "#0"},
+				"east": {"uv": [0, 0, 1, 12], "texture": "#0"},
+				"south": {"uv": [0, 0, 1, 12], "texture": "#0"},
+				"west": {"uv": [0, 0, 1, 12], "texture": "#0"},
+				"up": {"uv": [0, 0, 1, 1], "texture": "#0"},
+				"down": {"uv": [0, 0, 1, 1], "texture": "#0"}
+			}
+		},
+		{
+			"from": [0.25, 15.25, 0.25],
+			"to": [15.75, 16.25, 15.75],
+			"faces": {
+				"north": {"uv": [0, 0, 15.5, 1], "texture": "#1"},
+				"east": {"uv": [0, 0, 15.5, 1], "texture": "#1"},
+				"south": {"uv": [0, 0, 15.5, 1], "texture": "#1"},
+				"west": {"uv": [0, 0, 15.5, 1], "texture": "#1"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#1"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"thirdperson_lefthand": {
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"gui": {
+			"rotation": [45, 45, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"fixed": {
+			"translation": [0, 0, 18],
+			"scale": [2, 2, 2]
+		}
+	}
+}

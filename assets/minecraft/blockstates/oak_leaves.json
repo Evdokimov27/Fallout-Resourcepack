@@ -1,0 +1,18 @@
+{
+  "variants": {
+    "distance=7,persistent=true":[ { "model": "block/custom/nature/leaves/oakl1" }, { "model": "block/custom/nature/leaves/oakl2" }, { "model": "block/custom/nature/leaves/oakl3" } ],
+    "distance=6,persistent=true":[ { "model": "block/custom/nature/leaves/oakl1" }, { "model": "block/custom/nature/leaves/oakl2" }, { "model": "block/custom/nature/leaves/oakl3" } ],
+    "distance=5,persistent=true":[ { "model": "block/custom/nature/leaves/oakl1" }, { "model": "block/custom/nature/leaves/oakl2" }, { "model": "block/custom/nature/leaves/oakl3" } ],
+    "distance=4,persistent=true":[ { "model": "block/custom/nature/leaves/oakl1" }, { "model": "block/custom/nature/leaves/oakl2" }, { "model": "block/custom/nature/leaves/oakl3" } ],
+    "distance=3,persistent=true":[ { "model": "block/custom/nature/leaves/oakl1" }, { "model": "block/custom/nature/leaves/oakl2" }, { "model": "block/custom/nature/leaves/oakl3" } ],
+    "distance=2,persistent=true":[ { "model": "block/custom/nature/leaves/oakl2" } ],
+    "distance=1,persistent=true":[ { "model": "block/custom/nature/leaves/oakl2" } ],
+    "distance=7,persistent=false":[ { "model": "block/custom/nature/leaves/oakl1" }, { "model": "block/custom/nature/leaves/oakl2" }, { "model": "block/custom/nature/leaves/oakl3" } ],
+    "distance=6,persistent=false":[ { "model": "block/custom/nature/leaves/oakl1" }, { "model": "block/custom/nature/leaves/oakl2" }, { "model": "block/custom/nature/leaves/oakl3" } ],
+    "distance=5,persistent=false":[ { "model": "block/custom/nature/leaves/oakl1" }, { "model": "block/custom/nature/leaves/oakl2" }, { "model": "block/custom/nature/leaves/oakl3" } ],
+    "distance=4,persistent=false":[ { "model": "block/custom/nature/leaves/oakl1" }, { "model": "block/custom/nature/leaves/oakl2" }, { "model": "block/custom/nature/leaves/oakl3" } ],
+    "distance=3,persistent=false":[ { "model": "block/custom/nature/leaves/oakl1" }, { "model": "block/custom/nature/leaves/oakl2" }, { "model": "block/custom/nature/leaves/oakl3" } ],
+    "distance=2,persistent=false":[ { "model": "block/custom/nature/leaves/oakl2" } ],
+    "distance=1,persistent=false":[ { "model": "block/custom/nature/leaves/oakl2" } ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+    "multipart": [
+        {   "when": { "up": "true" },
+            "apply": { "model": "block/custom/crash_barrier/center_pole", "y": 0 }
+        },
+        {   "when": { "north": "low" },
+            "apply": { "model": "block/custom/crash_barrier/crash_barrier_l", "y": 270, "uvlock": true }
+        },
+        {   "when": { "east": "low" },
+            "apply": { "model": "block/custom/crash_barrier/crash_barrier_r", "y": 180, "uvlock": true }
+        },
+        {   "when": { "south": "low" },
+            "apply": { "model": "block/custom/crash_barrier/crash_barrier_r", "y": 270, "uvlock": true }
+        },
+        {   "when": { "west": "low" },
+            "apply": { "model": "block/custom/crash_barrier/crash_barrier_l", "y": 180, "uvlock": true }
+        },
+        {   "when": { "north": "tall" },
+            "apply": { "model": "block/custom/crash_barrier/crash_barrier_l", "y": 270, "uvlock": true }
+        },
+        {   "when": { "east": "tall" },
+            "apply": { "model": "block/custom/crash_barrier/crash_barrier_r", "y": 180, "uvlock": true }
+        },
+        {   "when": { "south": "tall" },
+            "apply": { "model": "block/custom/crash_barrier/crash_barrier_r", "y": 270, "uvlock": true }
+        },
+        {   "when": { "west": "tall" },
+            "apply": { "model": "block/custom/crash_barrier/crash_barrier_l", "y": 180, "uvlock": true }
+        }
+    ]
+}

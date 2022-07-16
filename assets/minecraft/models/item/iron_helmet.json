@@ -1,0 +1,9 @@
+{
+    "parent": "minecraft:block/iron_helmet",
+    "textures": {
+        "layer0": "block/iron_helmet"
+    },
+	"overrides": [
+		{"predicate": {"custom_model_data":1}, "model": "item/test/test"}
+	]
+}

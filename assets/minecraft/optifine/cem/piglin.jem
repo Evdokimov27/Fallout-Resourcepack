@@ -1,0 +1,76 @@
+{
+  "comment": "Created by ullert",
+  "models": 
+  [
+    {
+      "model": "optifine/cem/npc/body.jpm",
+      "part": "body", 
+      "attach": false,
+      "translate": [0, 0, 0],
+      "rotate": [0, 0, 0]
+    },
+    {
+      "model": "optifine/cem/npc/head.jpm",
+      "part": "head", 
+      "attach": false,
+      "translate": [0, 0, 0],
+      "rotate": [0, 0, 0]
+    },
+    {
+      "model": "optifine/cem/npc/face_anim.jpm",
+      "part": "head", 
+      "attach": true,
+      "translate": [0, 0, 0],
+      "rotate": [0, 0, 0]
+    },  
+	{
+      "model": "optifine/cem/npc/hair.jpm",
+      "part": "headwear", 
+      "attach": false,
+      "translate": [0, 0, 0],
+      "rotate": [0, 0, 0]
+    },
+    {
+      "model": "optifine/cem/npc/right_leg.jpm",
+      "part": "right_leg", 
+      "attach": false,
+      "translate": [0, 0, 0],
+      "rotate": [0, 0, 0]
+    },
+    {
+      "model": "optifine/cem/npc/left_leg.jpm",
+      "part": "left_leg", 
+      "attach": false,
+      "translate": [0, 0, 0],
+      "rotate": [0, 0, 0]
+    },
+    {
+      "model": "optifine/cem/npc/right_arm.jpm",
+      "part": "right_arm", 
+      "attach": false,
+      "translate": [0, 0, 0],
+      "rotate": [0, 0, 0]
+    },
+    {
+      "model": "optifine/cem/npc/left_arm.jpm",
+      "part": "left_arm", 
+      "attach": false,
+      "translate": [0, 0, 0],
+      "rotate": [0, 0, 0]
+    },
+	    {
+      "model": "optifine/cem/npc/empty.jpm",
+      "part": "left_ear", 
+      "attach": false,
+      "translate": [0, 0, 0],
+      "rotate": [0, 0, 0]
+    },
+	    {
+      "model": "optifine/cem/npc/empty.jpm",
+      "part": "right_ear", 
+      "attach": false,
+      "translate": [0, 0, 0],
+      "rotate": [0, 0, 0]
+    }
+  ]
+}

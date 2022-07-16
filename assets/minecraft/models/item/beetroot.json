@@ -1,0 +1,18 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/carrot"
+    },
+	"overrides": [
+		{"predicate": {"custom_model_data":1}, "model": "item/food/taroleafcook"},
+		{"predicate": {"custom_model_data":2}, "model": "item/food/pineappleroast"},
+		{"predicate": {"custom_model_data":3}, "model": "item/food/coconutcream"},
+		{"predicate": {"custom_model_data":4}, "model": "item/food/tarocormcook"},
+		{"predicate": {"custom_model_data":5}, "model": "item/food/ricecook"},
+		{"predicate": {"custom_model_data":6}, "model": "item/food/ricemango"},
+		{"predicate": {"custom_model_data":7}, "model": "item/food/GGsmoothie"},
+		{"predicate": {"custom_model_data":8}, "model": "item/food/ExoSalad"}
+
+		
+	]
+}

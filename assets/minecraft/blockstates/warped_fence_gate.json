@@ -1,0 +1,80 @@
+{
+  "variants": {
+    "facing=east,in_wall=false,open=false": {
+      "uvlock": true,
+      "y": 270,
+      "model": "block/warped_fence_gate"
+    },
+    "facing=east,in_wall=false,open=true": {
+      "uvlock": true,
+      "y": 270,
+      "model": "block/custom/crash_barrier/end_barrier_l"
+    },
+    "facing=east,in_wall=true,open=false": {
+      "uvlock": true,
+      "y": 270,
+      "model": "block/custom/crash_barrier/reinforced"
+    },
+    "facing=east,in_wall=true,open=true": {
+      "uvlock": true,
+      "y": 270,
+      "model": "block/custom/crash_barrier/broken_l"
+    },
+    "facing=north,in_wall=false,open=false": {
+      "uvlock": true,
+      "y": 180,
+      "model": "block/warped_fence_gate"
+    },
+    "facing=north,in_wall=false,open=true": {
+      "uvlock": true,
+      "y": 180,
+      "model": "block/custom/crash_barrier/end_barrier_l"
+    },
+    "facing=north,in_wall=true,open=false": {
+      "uvlock": true,
+      "y": 180,
+      "model": "block/custom/crash_barrier/reinforced"
+    },
+    "facing=north,in_wall=true,open=true": {
+      "uvlock": true,
+      "y": 180,
+      "model": "block/custom/crash_barrier/broken_l"
+    },
+    "facing=south,in_wall=false,open=false": {
+      "uvlock": true,
+      "model": "block/warped_fence_gate"
+    },
+    "facing=south,in_wall=false,open=true": {
+      "uvlock": true,
+      "model": "block/custom/crash_barrier/end_barrier_l"
+    },
+    "facing=south,in_wall=true,open=false": {
+      "uvlock": true,
+      "model": "block/custom/crash_barrier/reinforced"
+    },
+    "facing=south,in_wall=true,open=true": {
+      "uvlock": true,
+      "model": "block/custom/crash_barrier/broken_l"
+    },
+    "facing=west,in_wall=false,open=false": {
+      "uvlock": true,
+      "y": 90,
+      "model": "block/warped_fence_gate"
+    },
+    "facing=west,in_wall=false,open=true": {
+      "uvlock": true,
+      "y": 90,
+      "model": "block/custom/crash_barrier/end_barrier_l"
+    },
+    "facing=west,in_wall=true,open=false": {
+      "uvlock": true,
+      "y": 90,
+      "model": "block/custom/crash_barrier/reinforced"
+    },
+    "facing=west,in_wall=true,open=true": {
+      "uvlock": true,
+      "y": 90,
+      "model": "block/custom/crash_barrier/broken_l"
+    }
+  }
+}

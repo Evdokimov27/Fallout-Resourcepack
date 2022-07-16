@@ -1,0 +1,53 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/crossbow_standby"
+    },
+    "display": {
+        "thirdperson_righthand": {
+            "rotation": [ -90, 0, -60 ],
+            "translation": [ 2, 0.1, -3 ],
+            "scale": [ 0.9, 0.9, 0.9 ]
+        },
+        "thirdperson_lefthand": {
+            "rotation": [ -90, 0, 30 ],
+            "translation": [ 2, 0.1, -3 ],
+            "scale": [ 0.9, 0.9, 0.9 ]
+        },
+        "firstperson_righthand": {
+            "rotation": [ -90, 0, -55 ],
+            "translation": [ 1.13, 3.2, 1.13],
+            "scale": [ 0.68, 0.68, 0.68 ]
+        },
+        "firstperson_lefthand": {
+            "rotation": [ -90, 0, 35 ],
+            "translation": [ 1.13, 3.2, 1.13],
+            "scale": [ 0.68, 0.68, 0.68 ]
+        }
+    },
+    "overrides": [
+			{"predicate": {"custom_model_data":1}, "model": "item/guns/6250"},
+			{"predicate": {"custom_model_data":2}, "model": "item/guns/aer9"},
+			{"predicate": {"custom_model_data":3}, "model": "item/guns/aer9S"},
+			{"predicate": {"custom_model_data":4}, "model": "item/guns/ak112"},
+			{"predicate": {"custom_model_data":5}, "model": "item/guns/COLTpistol"},
+			{"predicate": {"custom_model_data":6}, "model": "item/guns/HMrifle"},
+			{"predicate": {"custom_model_data":7}, "model": "item/guns/HMrifleF"},
+			{"predicate": {"custom_model_data":8}, "model": "item/guns/m3a1"},
+			{"predicate": {"custom_model_data":9}, "model": "item/guns/m3a1b"},
+			{"predicate": {"custom_model_data":10}, "model": "item/guns/MAs"},
+			{"predicate": {"custom_model_data":11}, "model": "item/guns/MAsM"},
+			{"predicate": {"custom_model_data":12}, "model": "item/guns/minigun"},
+			{"predicate": {"custom_model_data":13}, "model": "item/guns/mp9"},
+			{"predicate": {"custom_model_data":14}, "model": "item/guns/mp9B"},
+			{"predicate": {"custom_model_data":14}, "model": "item/guns/mp9BM"},
+			{"predicate": {"custom_model_data":15}, "model": "item/guns/mp9M"},
+			{"predicate": {"custom_model_data":16}, "model": "item/guns/N99pistol"},
+			{"predicate": {"custom_model_data":17}, "model": "item/guns/WWlong"},
+			{"predicate": {"custom_model_data":18}, "model": "item/guns/aer9S"},
+			{"predicate": {"custom_model_data":19}, "model": "item/guns/WWsawoff"},
+			{"predicate": {"custom_model_data":20}, "model": "item/guns/fatman"},
+			{"predicate": {"custom_model_data":68}, "model": "item/guns/aiming"}
+]
+}
+          

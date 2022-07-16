@@ -1,0 +1,16 @@
+{
+    "variants": {
+        "powered=false,shape=north_south":  { "model": "block/custom/rails/activator_rail" },
+        "powered=false,shape=east_west":  { "model": "block/custom/rails/activator_rail", "y": 90 },
+        "powered=false,shape=ascending_east": { "model": "block/custom/rails/powered_rail_raised", "y": 270 },
+        "powered=false,shape=ascending_west": { "model": "block/custom/rails/powered_rail_raised", "y": 90 },
+        "powered=false,shape=ascending_north": { "model": "block/custom/rails/powered_rail_raised", "y": 180 },
+        "powered=false,shape=ascending_south": { "model": "block/custom/rails/powered_rail_raised", "y": 0 },
+        "powered=true,shape=north_south":  { "model": "block/custom/rails/rail_wheels", "y": 180 },
+        "powered=true,shape=east_west":  { "model": "block/custom/rails/rail_wheels", "y": 270 },
+        "powered=true,shape=ascending_east": { "model": "block/custom/rails/powered_rail_raised_on", "y": 90 },
+        "powered=true,shape=ascending_west": { "model": "block/custom/rails/powered_rail_raised_on", "y": 270 },
+        "powered=true,shape=ascending_north": { "model": "block/custom/rails/powered_rail_raised_on", "y": 0 },
+        "powered=true,shape=ascending_south": { "model": "block/custom/rails/powered_rail_raised_on", "y": 180 }
+    }
+}

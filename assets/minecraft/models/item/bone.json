@@ -1,0 +1,16 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/bone"
+    },
+	"overrides": [
+		{"predicate": {"custom_model_data":1}, "model": "item/junk/bonepiece"},
+		{"predicate": {"custom_model_data":2}, "model": "item/junk/ribcage"},
+		{"predicate": {"custom_model_data":3}, "model": "item/junk/rib"},
+		{"predicate": {"custom_model_data":4}, "model": "item/junk/femur"},
+		{"predicate": {"custom_model_data":5}, "model": "item/junk/meatandbone"},
+		{"predicate": {"custom_model_data":6}, "model": "item/junk/kaiatooth"},
+		{"predicate": {"custom_model_data":7}, "model": "item/junk/kaiahide"}
+		
+	]
+}

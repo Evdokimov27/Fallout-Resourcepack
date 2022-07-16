@@ -1,0 +1,40 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/flint"
+    },
+	"overrides": [
+		{"predicate": {"custom_model_data":1}, "model": "item/junk/deskfan"},
+		{"predicate": {"custom_model_data":2}, "model": "item/junk/adjustablewrench"},
+		{"predicate": {"custom_model_data":3}, "model": "item/junk/wrench"},
+		{"predicate": {"custom_model_data":4}, "model": "item/junk/protectronbits"},
+		{"predicate": {"custom_model_data":5}, "model": "item/junk/can"},
+		{"predicate": {"custom_model_data":6}, "model": "item/junk/squashcan"},
+		{"predicate": {"custom_model_data":7}, "model": "item/junk/alumcan"},
+		{"predicate": {"custom_model_data":8}, "model": "item/junk/oilcan"},
+		{"predicate": {"custom_model_data":9}, "model": "item/junk/alumcanister"},
+		{"predicate": {"custom_model_data":10}, "model": "item/junk/canister"},
+		{"predicate": {"custom_model_data":11}, "model": "item/junk/basetray"},
+		{"predicate": {"custom_model_data":12}, "model": "item/junk/tvtray"},
+		{"predicate": {"custom_model_data":13}, "model": "item/junk/typewriter"},
+		{"predicate": {"custom_model_data":14}, "model": "item/junk/alarmclock"},
+		{"predicate": {"custom_model_data":15}, "model": "item/junk/pocketwatch"},
+		{"predicate": {"custom_model_data":16}, "model": "item/junk/locket"},
+		{"predicate": {"custom_model_data":17}, "model": "item/junk/lighter"},
+		{"predicate": {"custom_model_data":18}, "model": "item/junk/scissors"},
+		{"predicate": {"custom_model_data":19}, "model": "item/junk/cookpan"},
+		{"predicate": {"custom_model_data":20}, "model": "item/junk/cookpot"},
+		{"predicate": {"custom_model_data":21}, "model": "item/junk/blowtorch"},
+		{"predicate": {"custom_model_data":22}, "model": "item/junk/paintcanempty"},
+		{"predicate": {"custom_model_data":23}, "model": "item/junk/liberatorleg"},
+		{"predicate": {"custom_model_data":24}, "model": "item/junk/comb"},
+		{"predicate": {"custom_model_data":25}, "model": "item/junk/leadpipe"},
+		{"predicate": {"custom_model_data":26}, "model": "item/junk/cashreg"},
+		{"predicate": {"custom_model_data":27}, "model": "item/junk/RadioTUBE"},
+		{"predicate": {"custom_model_data":28}, "model": "item/junk/HVPowerCable"},
+		{"predicate": {"custom_model_data":29}, "model": "item/junk/PowerCable"},
+		{"predicate": {"custom_model_data":30}, "model": "item/junk/ScrapWires"},
+		{"predicate": {"custom_model_data":31}, "model": "item/junk/ElectricWire"}
+		
+	]
+}

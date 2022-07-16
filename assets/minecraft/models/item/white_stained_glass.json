@@ -1,0 +1,15 @@
+{
+    "parent": "minecraft:block/white_stained_glass",
+    "textures": {
+        "layer0": "item/white_stained_glass"
+    },
+	"overrides": [
+		{"predicate": {"custom_model_data":1}, "model": "item/furniture/jukebox_empty"},
+		{"predicate": {"custom_model_data":2}, "model": "item/furniture/jukebox_frame1"},
+		{"predicate": {"custom_model_data":3}, "model": "item/furniture/jukebox_frame2"},
+		{"predicate": {"custom_model_data":4}, "model": "item/furniture/jukebox_frame3"},
+		{"predicate": {"custom_model_data":5}, "model": "item/furniture/jukebox_frame4"},
+		{"predicate": {"custom_model_data":6}, "model": "item/furniture/jukebox_frame5"}
+		
+	]
+}

@@ -1,0 +1,16 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/paper"
+    },
+	"overrides": [
+		{"predicate": {"custom_model_data":1}, "model": "item/junk/clipboardpage"},
+		{"predicate": {"custom_model_data":2}, "model": "item/junk/clipboardempty"},
+		{"predicate": {"custom_model_data":3}, "model": "item/junk/clipboardburn"},
+		{"predicate": {"custom_model_data":4}, "model": "item/junk/stackpaper"},
+		{"predicate": {"custom_model_data":5}, "model": "item/junk/page"},
+		{"predicate": {"custom_model_data":6}, "model": "item/junk/newspaper"},
+		{"predicate": {"custom_model_data":7}, "model": "item/junk/oldcloth2"}
+		
+	]
+}

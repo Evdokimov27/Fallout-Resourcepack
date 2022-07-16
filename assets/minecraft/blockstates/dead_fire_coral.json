@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "": [
+		{ "model": "block/custom/bobblehead/happy", "y": 90},
+		{ "model": "block/custom/bobblehead/thumbsup", "y": 90},
+		{ "model": "block/custom/bobblehead/standard", "y": 90}
+		]
+    }
+}

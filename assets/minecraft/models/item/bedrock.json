@@ -1,0 +1,23 @@
+{
+    "parent": "minecraft:block/bedrock",
+    "textures": {
+        "layer0": "block/bedrock"
+    },
+	"overrides": [
+		{"predicate": {"custom_model_data":1}, "model": "item/worldspace/cone"},
+		{"predicate": {"custom_model_data":2}, "model": "item/worldspace/woodblock1"},
+		{"predicate": {"custom_model_data":3}, "model": "item/worldspace/woodblock2"},
+		{"predicate": {"custom_model_data":4}, "model": "item/worldspace/woodblock3"},
+		{"predicate": {"custom_model_data":5}, "model": "item/worldspace/vaultdoor"},
+		{"predicate": {"custom_model_data":6}, "model": "item/worldspace/slidingvaultdoor"},
+		{"predicate": {"custom_model_data":7}, "model": "item/worldspace/slidingvaultshutter"},
+		{"predicate": {"custom_model_data":8}, "model": "item/worldspace/slidingvaultdoorshort"},
+		{"predicate": {"custom_model_data":9}, "model": "item/worldspace/terminal2"},
+		{"predicate": {"custom_model_data":10}, "model": "item/worldspace/terminal2broke"},
+		{"predicate": {"custom_model_data":11}, "model": "item/worldspace/SecurityCamera"},
+		{"predicate": {"custom_model_data":12}, "model": "item/worldspace/Hydrant1"},
+		{"predicate": {"custom_model_data":13}, "model": "item/worldspace/Hydrant2"},
+		{"predicate": {"custom_model_data":14}, "model": "item/worldspace/Hydrant3"}
+
+	]
+}

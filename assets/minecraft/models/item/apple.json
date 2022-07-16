@@ -1,0 +1,23 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/apple"
+    },
+	"overrides": [
+		{"predicate": {"custom_model_data":1}, "model": "item/food/blamco"},
+		{"predicate": {"custom_model_data":2}, "model": "item/food/bubblegum"},
+		{"predicate": {"custom_model_data":3}, "model": "item/food/gumdrop"},
+		{"predicate": {"custom_model_data":4}, "model": "item/food/canneddog"},
+		{"predicate": {"custom_model_data":5}, "model": "item/food/cannedcat"},
+		{"predicate": {"custom_model_data":6}, "model": "item/food/dandyboy"},
+		{"predicate": {"custom_model_data":7}, "model": "item/food/cram"},
+		{"predicate": {"custom_model_data":8}, "model": "item/food/fancylads"},
+		{"predicate": {"custom_model_data":9}, "model": "item/food/instamash"},
+		{"predicate": {"custom_model_data":10}, "model": "item/food/sugarbomb"},
+		{"predicate": {"custom_model_data":11}, "model": "item/food/potatocriisp"},
+		{"predicate": {"custom_model_data":12}, "model": "item/food/porkbean"},
+		{"predicate": {"custom_model_data":13}, "model": "item/food/salissteak"},
+		{"predicate": {"custom_model_data":14}, "model": "item/food/yumegg"}
+		
+	]
+}

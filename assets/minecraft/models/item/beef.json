@@ -1,0 +1,12 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/beef"
+    },
+	"overrides": [
+		{"predicate": {"custom_model_data":1}, "model": "item/food/kaiameat"},
+		{"predicate": {"custom_model_data":2}, "model": "item/food/meatchunkraw"},
+		{"predicate": {"custom_model_data":3}, "model": "item/food/KauRaw"}
+		
+	]
+}

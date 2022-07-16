@@ -1,0 +1,85 @@
+{
+  "comment": "Created by Mattu",
+  "models": 
+  [
+
+    {
+      "model": "optifine/cem/spider/spider_body.jpm",
+      "part": "body", 
+      "attach": false,
+      "translate": [0, 0, 0],
+      "rotate": [0, 0, 0]
+    },
+    {
+      "model": "optifine/cem/spider/spider_head.jpm",
+      "part": "head", 
+      "attach": false,
+      "translate": [0, 0, 0],
+      "rotate": [0, 0, 0]
+    },
+    {
+      "model": "optifine/cem/spider/spider_neck.jpm",
+      "part": "neck", 
+      "attach": false,
+      "translate": [0, 0, 0],
+      "rotate": [0, 0, 0]
+    },
+    {
+      "model": "optifine/cem/spider/spider_leg1.jpm",
+      "part": "leg1", 
+      "attach": false,
+      "translate": [0, 0, 0],
+      "rotate": [0, 0, 0]
+    },
+    {
+      "model": "optifine/cem/spider/spider_leg2.jpm",
+      "part": "leg2", 
+      "attach": false,
+      "translate": [0, 0, 0],
+      "rotate": [0, 0, 0]
+    },
+    {
+      "model": "optifine/cem/spider/spider_leg3.jpm",
+      "part": "leg3", 
+      "attach": false,
+      "translate": [0, 0, 0],
+      "rotate": [0, 0, 0]
+    },
+    {
+      "model": "optifine/cem/spider/spider_leg4.jpm",
+      "part": "leg4", 
+      "attach": false,
+      "translate": [0, 0, 0],
+      "rotate": [0, 0, 0]
+    },
+    {
+      "model": "optifine/cem/spider/spider_leg5.jpm",
+      "part": "leg5", 
+      "attach": false,
+      "translate": [0, 0, 0],
+      "rotate": [0, 0, 0]
+    },
+    {
+      "model": "optifine/cem/spider/spider_leg6.jpm",
+      "part": "leg6", 
+      "attach": false,
+      "translate": [0, 0, 0],
+      "rotate": [0, 0, 0]
+    },
+    {
+      "model": "optifine/cem/spider/spider_leg7.jpm",
+      "part": "leg7", 
+      "attach": false,
+      "translate": [0, 0, 0],
+      "rotate": [0, 0, 0]
+    },
+    {
+      "model": "optifine/cem/spider/spider_leg8.jpm",
+      "part": "leg8", 
+      "attach": false,
+      "translate": [0, 0, 0],
+      "rotate": [0, 0, 0]
+    }
+   
+  ]
+}

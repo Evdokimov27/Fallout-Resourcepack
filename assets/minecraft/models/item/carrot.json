@@ -1,0 +1,21 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/carrot"
+    },
+	"overrides": [
+		{"predicate": {"custom_model_data":1}, "model": "item/food/taroleaf"},
+		{"predicate": {"custom_model_data":2}, "model": "item/food/coconut"},
+		{"predicate": {"custom_model_data":3}, "model": "item/food/painapel"},
+		{"predicate": {"custom_model_data":4}, "model": "item/food/rice"},
+		{"predicate": {"custom_model_data":5}, "model": "item/food/ti"},
+		{"predicate": {"custom_model_data":6}, "model": "item/food/tarocrom"},
+		{"predicate": {"custom_model_data":7}, "model": "item/food/mango"},
+		{"predicate": {"custom_model_data":8}, "model": "item/food/avocado"},
+		{"predicate": {"custom_model_data":9}, "model": "item/food/papaya"},
+		{"predicate": {"custom_model_data":10}, "model": "item/food/lilikoi"},
+		{"predicate": {"custom_model_data":11}, "model": "item/food/mtnapple"}
+
+		
+	]
+}

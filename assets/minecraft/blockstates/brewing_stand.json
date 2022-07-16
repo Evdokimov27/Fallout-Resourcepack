@@ -1,0 +1,14 @@
+{
+    "multipart": [
+        {   "apply": { "model": "block/custom/bunsen_burner/base" }},
+        {   "when": { "has_bottle_0": "true" },
+            "apply": { "model": "block/custom/bunsen_burner/bottle1" }
+        },
+        {   "when": { "has_bottle_1": "true" },
+            "apply": { "model": "block/custom/bunsen_burner/bottle2" }
+        },
+        {   "when": { "has_bottle_2": "true" },
+            "apply": { "model": "block/custom/bunsen_burner/bottle3" }
+        }
+    ]
+}

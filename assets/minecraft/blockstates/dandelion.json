@@ -1,0 +1,7 @@
+{
+  "variants": {
+        "":[
+		    { "model": "block/custom/nature/leaves/stubby_bush","weight":10 }
+		]
+  }
+}

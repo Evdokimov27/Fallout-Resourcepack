@@ -1,0 +1,7 @@
+"folder is fucking messy af, but i'm not arsed re-routing all the paths to custom models"
+
+- Matt, October 2020
+
+"I reorganized all the models into folders so its all neat and tidy now"
+
+- Matt, March 2021

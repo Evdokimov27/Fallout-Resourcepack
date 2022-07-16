@@ -1,0 +1,28 @@
+{
+	"multipart": [
+		{	"when": { "facing": "east" },
+		 	"apply": { "model": "block/intricate_survival/torch_wall" }
+		},
+		{	"when": { "facing": "east" },
+		 	"apply": { "model": "block/intricate_survival/torch_flame_wall" }
+		},
+		{	"when": { "facing": "south" },
+		 	"apply": { "model": "block/intricate_survival/torch_wall", "y": 90 }
+		},
+		{	"when": { "facing": "south" },
+		 	"apply": { "model": "block/intricate_survival/torch_flame_wall", "y": 90 }
+		},
+		{	"when": { "facing": "west" },
+		 	"apply": { "model": "block/intricate_survival/torch_wall", "y": 180 }
+		},
+		{	"when": { "facing": "west" },
+		 	"apply": { "model": "block/intricate_survival/torch_flame_wall", "y": 180 }
+		},
+		{	"when": { "facing": "north" },
+		 	"apply": { "model": "block/intricate_survival/torch_wall", "y": 270 }
+		},
+		{	"when": { "facing": "north" },
+		 	"apply": { "model": "block/intricate_survival/torch_flame_wall", "y": 270 }
+		} 
+	]
+}
